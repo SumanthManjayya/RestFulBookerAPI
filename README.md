@@ -18,5 +18,9 @@ The collection uses the following variables:
 - `firstname`, `lastname`, `totalprice`, `depositpaid`, `checkin`, `checkout`, `additionalneeds`, `token`
 
 
+   ## 🚀 Usage
+
+1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/<your-repo>.git
+
